@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppTestSectorialEduc</string>
+    <string name="default_notification_channel_id">Canal1</string>
+    <string name="fcm_message">Nuevo mensaje</string>
 </resources>
